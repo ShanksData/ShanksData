@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning Devops automation using Azure Devops and Github. I am also a keen follower of AI related advancements in NLP using LLMs such as Open AI GPT APIs. 
 
+- 💬 Ask me about: Data Warehouse, Data Governance, Azure/AWS, Biographies of business personalities, Investments and Markets, WWII History, Stoic Philosophy
+
+- ⚡ Fun fact: In addition to new programming languages, I also have a knack for learning human languages. I have an advanced degree in Japanese and know a smatterning of French and Spanish.
+
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/sankarshan-sengupta-76a96b24
 
 
