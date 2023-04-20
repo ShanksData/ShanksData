@@ -1,10 +1,10 @@
 ### Hi there, I am Sankarshan! 👋
 
-- 🔭 I’m a Data Engineer currently working on building scalable data pipelines on open-source data platforms hosted on Azure. I work on interesting projects related to **Sustainability** and ESG regulatory reporting for the **Consumer Packaged Goods industry**.
+- 🔭 I’m a Data Engineer currently working on building scalable data pipelines on open-source data platforms hosted on Azure. I work on interesting projects related to **Sustainability** and **ESG regulatory reporting** for the **Consumer Packaged Goods industry**.
 
 - 👯 I’m looking to collaborate on open-source projects that focus on next-gen tools and frameworks for Data Engineers developing on platforms like Azure Databricks using Python or SQL. 
 
-- 🌱 I’m currently learning Devops automation using Azure Devops and Github. I am also a keen follower of AI related advancements in NLP using LLMs such as Open AI GPT APIs. 
+- 🌱 I’m currently learning Data Analytics, DataOps and DevOps frameworks and tools that can really simplify some of the complexity around engineering data pipelines, testing them end to end with high data quality and orchestrating them with observability at scale. I am also a keen follower of AI related advancements in NLP. 
 
 - ⚡ Fun fact: In addition to new programming languages, I also have a knack for learning human languages. I have an advanced degree in Japanese and know a smattering of French and Spanish.
 
