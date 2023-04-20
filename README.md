@@ -10,7 +10,7 @@
 
 - 💬 Ask me about: Data Warehouse, Data Governance, Azure/AWS, Biographies of business personalities, Investments and Markets, WWII History, Stoic Philosophy
 
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/sankarshan-sengupta-76a96b24
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sankarshan-sengupta-76a96b24)
 
 
 <!--
