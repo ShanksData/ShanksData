@@ -1,6 +1,6 @@
 ### Hi there, I am Sankarshan! 👋
 
-- 🔭 I’m a Data Engineer currently working on building scalable data pipelines on open-source data platforms hosted on Azure. I work on interesting projects related to **Sustainability** and **ESG regulatory reporting** for the **Consumer Packaged Goods industry**.
+- 🔭 I’m a Data Engineer currently working on building scalable data pipelines on both open-source and proprietary data platforms and infrastructure hosted on Azure. I work on interesting and high value projects related to **Sustainability** and **ESG regulatory reporting** for my company in the **Consumer Packaged Goods industry**.
 
 - 👯 I’m looking to collaborate on open-source projects that focus on next-gen tools and frameworks for Data Engineers developing on platforms like Azure Databricks using Python or SQL. 
 
